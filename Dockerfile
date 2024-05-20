@@ -1,5 +1,10 @@
 FROM registry.cn-beijing.aliyuncs.com/hub-mirrors/node:10
 
+
+
+
+
+
 COPY . .
 
 
